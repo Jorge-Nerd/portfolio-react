@@ -44,7 +44,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
             <div className="social-icon">
               <a href="#"> <img src='' alt="" /></a>
               <a href="#"> <img src='' alt="" /></a>
-              <a href="#"> <img src='' alt="" /></a>
+              <a href="#"> <FontAwesomeIcon icon="fa-solid fa-bars" /></a>
             </div>
             <button className='vvd' onClick={()=>{}}><span>Let's Connect</span></button>
           </span>
